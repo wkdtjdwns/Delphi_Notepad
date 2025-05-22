@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/108f5919-3032-470d-bd40-ff3d789925a7)# 1. Delphi_Notepad 😎
+# 1. Delphi_Notepad 😎
 
 **자세한 내용은 노션 참고**
 
